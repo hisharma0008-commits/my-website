@@ -557,7 +557,7 @@ ul, ol {
   font-size: clamp(3rem, 6.5vw, 5.5rem);
   line-height: 1.05;
   font-weight: 300;
-  color: var(--text-light);
+  color: black var(--text-light);
   margin-bottom: 1.8rem;
   opacity: 0;
   transform: translateY(25px);
